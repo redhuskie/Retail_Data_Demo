@@ -37,3 +37,25 @@ Matplotlib / Seaborn – data visualization
 Scikit-learn – machine learning for clustering  
 Jupyter Notebook – interactive development  
 
+Future Improvements
+Add profitability analysis using estimated cost/margin data
+
+Build an interactive dashboard (e.g., Streamlit or Power BI)
+
+Forecast future sales using time series models
+
+Expand customer segmentation with behavioral/demographic features
+
+## Purpose  
+This project is meant to demonstrate exploratory data analysis (EDA) and basic modeling techniques that can help organizations:  
+Understand retail performance  
+Tailor promotions and discounts  
+Identify valuable customer segments  
+Support more informed operational decisions  
+
+## Future Improvements  
+Add profitability analysis using estimated cost/margin data  
+Build an interactive dashboard (e.g., Streamlit or Power BI)
+Forecast future sales using time series models  
+Expand customer segmentation with behavioral/demographic features  
+
